@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Module>
-  <Name>Protobuild.Template.Blank</Name>
+  <Name>Protobuild.Template.Console</Name>
   <Authors>Redpoint Games</Authors>
   <SemanticVersion>1.0.0</SemanticVersion>
   <Description>The basic template for a command line application.</Description>
